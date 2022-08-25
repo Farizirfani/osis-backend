@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('title')
-    Dashboard
+    Dashboard | Home
 @endsection
 
 <style>
@@ -32,7 +32,7 @@
                 align-items-center mb-3">
                     <img src="/img/person-icon 2.png" alt="Candidate">
                 </div>
-                <a href="" class="rounded text-decoration-none text-white px-4 py-2">VISI MISI</a>
+                <a href="" class="rounded text-decoration-none text-white px-4 py-2">DETAIL</a>
                 <a href="" class="rounded text-decoration-none p-2"
                     style="background-color: #92FFEB;color:rgb(131, 131, 131);">VOTE</a>
             </div>
@@ -41,7 +41,7 @@
                 align-items-center mb-3">
                     <img src="/img/person-icon 2.png" alt="Candidate">
                 </div>
-                <a href="" class="rounded text-decoration-none text-white px-4 py-2">VISI MISI</a>
+                <a href="" class="rounded text-decoration-none text-white px-4 py-2">DETAIL</a>
                 <a href="" class="rounded text-decoration-none p-2"
                     style="background-color: #92FFEB;color:rgb(131, 131, 131);">VOTE</a>
             </div>
@@ -50,7 +50,7 @@
                 align-items-center mb-3">
                     <img src="/img/person-icon 2.png" alt="Candidate">
                 </div>
-                <a href="" class="rounded text-decoration-none text-white px-4 py-2">VISI MISI</a>
+                <a href="" class="rounded text-decoration-none text-white px-4 py-2">DETAIL</a>
                 <a href="" class="rounded text-decoration-none p-2"
                     style="background-color: #92FFEB;color:rgb(131, 131, 131);">VOTE</a>
             </div>
